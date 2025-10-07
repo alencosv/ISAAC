@@ -26,8 +26,8 @@ Inspirada em linguagens como XML, AIML e DSLs, ISAAC se diferencia por:
 
 Cada robô é definido por uma tag personalizada:
 
-<Nome_do_Robô>
-    [Comandos semânticos em linguagem natural]
+<Nome_do_Robô>  
+    [Comandos semânticos em linguagem natural]  
 </Nome_do_Robô>
 
 ### 3.2 — Chamada de Execução
