@@ -1,4 +1,4 @@
-[🇧🇷 Versão em português](README.md)
+[🇧🇷 Versão em português](README.pt_BR.md)
 # ISAAC — Intelligent Script Automation for Academic Composition
 
 ISAAC is a semantic automation language powered by AI, designed to structure, execute, and scale editorial and academic tasks with precision.  
