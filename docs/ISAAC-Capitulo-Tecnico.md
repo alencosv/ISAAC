@@ -171,7 +171,7 @@ ISAAC é inédita por:
 </Balanceamento_Quimico>
 
 Execute o script Balanceamento_Quimico
-EQ: H2 + O2 → H2O
+EQ: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
 ```
 
 ### Álgebra Vetorial
