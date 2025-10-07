@@ -32,6 +32,19 @@ ISAAC se diferencia por:
 </Ref_AC>
 ```
 
+```
+<Ref_AD>
+	Descarte qualquer AD existente;
+	Registre e tome como referência o novo Arquivo de Diretrizes (AD): Ver chamada externa;
+	Use este AD em substituição a qualquer outro AD existente;
+	Analise o AD;
+	Considere este AD como Verdade Absoluta e referência para o AC;
+</Ref_AD>
+
+Execute o script Ref_AD para:
+AD =
+```
+
 ### 3.2. Chamada de Execução
 ```
 Execute o script Ref_AC
