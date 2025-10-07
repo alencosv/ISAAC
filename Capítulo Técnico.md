@@ -24,6 +24,8 @@ ISAAC se diferencia por:
 
 ### 3.1. Bloco de Robô
 ```
+#########################################################################################################################################
+# Script para registrar o Arquivo de Conteúdo
 <Ref_AC>  
   Descarte qualquer AC existente;  
   Registre e tome como referência O Arquivo de Conteúdo (AC);  
@@ -33,6 +35,8 @@ ISAAC se diferencia por:
 ```
 
 ```
+#########################################################################################################################################
+# Script para registrar o Arquivo de Diretrizes
 <Ref_AD>
 	Descarte qualquer AD existente;
 	Registre e tome como referência o novo Arquivo de Diretrizes (AD): Ver chamada externa;
@@ -53,6 +57,8 @@ Execute o script Script_Fichamento
 ```
 ### 3.3. Comandos Internos
 ```
+#########################################################################################################################################
+# Script para registrar o Arquivo de Referência (Referência Bibliográfica)
 <Ref_AR>
   x: Ver chamada externa;
   RBx = Ver chamada externa;
@@ -84,6 +90,8 @@ Execute o script Script_Fichamento para RBx = NBR-10520-CITAÇÕES.pdf
 ##7. Reconhecimento de Entidades Externas
 
 ```
+#########################################################################################################################################
+# Script para replicar a Estrutura Geral da Obra (Sumário)
 <Replicar_EGO>
   Replique fielmente a EGO;
   Converta para o formato txt em caixa de comando (canvas ou cli), sem emojis, hashtags, hifens ou linhas em branco como separadores;
@@ -98,6 +106,9 @@ $ execute o script Replicar_EGO
 ```
 
 ```
+#########################################################################################################################################
+# Script para elaborar o Glossário
+
 <Glossário>
   Execute os Passos 1 a 4:
   Passo 1: Replique o nome do AC;
@@ -130,6 +141,8 @@ $ execute o script Fichamento_Rápido
 ## 9. Execução por Intervalo (Range)
 
 ```
+#########################################################################################################################################
+# Script para realizar análise editorial da obra
 <Análise Editorial_Seção>
   Execute os Passos 1 a 4:
   Passo 1: Replique o nome do AC;
