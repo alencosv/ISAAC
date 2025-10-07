@@ -32,6 +32,9 @@ ISAAC se diferencia por:
   Use-o em substituição a qualquer outro AC existente: Ver chamada externa do AC;  
   Analise o documento AC;  
 </Ref_AC>
+
+Execute o Ref_AC para:
+AC = [insira aqui o nome do Arquivo de Conteúdo, que deve ser enviado como anexo para a plataforma de IA]
 ```
 
 ```
@@ -46,7 +49,7 @@ ISAAC se diferencia por:
 </Ref_AD>
 
 Execute o script Ref_AD para:
-AD =
+AD = [insira aqui o nome do Arquivo de Dretrizes, que deve ser enviado como anexo para a plataforma de IA]
 ```
 
 ### 3.2. Chamada de Execução
@@ -93,16 +96,18 @@ Execute o script Script_Fichamento para RBx = NBR-10520-CITAÇÕES.pdf
 #########################################################################################################################################
 # Script para replicar a Estrutura Geral da Obra (Sumário)
 <Replicar_EGO>
-  Replique fielmente a EGO;
-  Converta para o formato txt em caixa de comando (canvas ou cli), sem emojis, hashtags, hifens ou linhas em branco como separadores;
-  Use identação com tabulação real de 8 caracteres (caractere ASCII \t), para excel seguindo o modelo:
-  Seção
-      Subseção
-          Capítulo
-              Tópico
+	Analise o AC;
+	Analise o AD;
+	Replique fielmente a EGO;
+	Converta para o formato txt em caixa de comando (canvas ou cli), sem emojis, hashtags, hifens ou linhas em branco como separadores;
+	 Use identação com tabulação real de 8 caracteres (caractere ASCII \t), para excel seguindo o modelo:
+	Seção
+		Subseção
+			Capítulo
+				Tópico
 </Replicar_EGO>
 
-$ execute o script Replicar_EGO
+Execute o script Replicar_EGO
 ```
 
 ```
