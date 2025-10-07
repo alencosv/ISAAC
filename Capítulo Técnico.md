@@ -199,6 +199,8 @@ ISAAC é inédita por:
   Equação Química (EQ): Ver declaração abaixo;
   Considere a equação EQ;
   Balanceie os coeficientes de EQ;
+	Replique sem LaTex;
+	Replique com LaTex;
 </Balanceamento_Quimico>
 
 Execute o script Balanceamento_Quimico
@@ -211,6 +213,8 @@ EQ: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
 <Função_Vetorial>
   EV: Ver declaração abaixo;
   Resolva a EV passo a passo;
+	Replique sem LaTex;
+	Replique com LaTex;
 </Função_Vetorial>
 
 Execute o script Função_Vetorial para:
@@ -222,6 +226,8 @@ EV: F(v) = 3v + 2w, v=(1,2), w=(0,1)
 <Equação_Ordinária>
   EDO: Ver declaração abaixo;
   Resolva a EDO por integração;
+	Replique sem LaTex;
+	Replique com LaTex;
 </Equação_Ordinária>
 
 Execute o script Equação_Ordinária para:
