@@ -118,22 +118,22 @@ $ execute o script Fichamento_Rápido
 
 ```
 <Análise Editorial_Seção>
-Execute os Passos 1 a 4:
-Passo 1: Replique o nome do AC;
-Passo 2: Replique o nome do AD;
-Passo 3: Análises e Considerações (AEC):
-    Analise o AC;
-    Analise o AD;
-    Analise o AF;
-    Considere as DTE definidas no AD;
-    Considere O PRET definido no AD;
-    Considere a EGO definida no AD;
-Passo 4: Seção a Analisar (SAA): Ver chamada externa;
-Faça uma Análise Editorial da SAA e da estrutura dos seus capítulos;
-Analise também as demais seções;
-Analise a abertura desta seção;
-Dê o seu parecer final;
-Liste os passos para resolver inconsistências;
+  Execute os Passos 1 a 4:
+  Passo 1: Replique o nome do AC;
+  Passo 2: Replique o nome do AD;
+  Passo 3: Análises e Considerações (AEC):
+      Analise o AC;
+      Analise o AD;
+      Analise o AF;
+      Considere as DTE definidas no AD;
+      Considere O PRET definido no AD;
+      Considere a EGO definida no AD;
+  Passo 4: Seção a Analisar (SAA): Ver chamada externa;
+    Faça uma Análise Editorial da SAA e da estrutura dos seus capítulos;
+    Analise também as demais seções;
+    Analise a abertura desta seção;
+    Dê o seu parecer final;
+    Liste os passos para resolver inconsistências;
 </Análise Editorial_Seção>
 
 $ execute o script Análise Editorial_Seção para SAA = 1 a 3
