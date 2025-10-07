@@ -23,10 +23,19 @@ ISAAC se diferencia por:
 ## 3. Estrutura da Linguagem
 
 ### 3.1. Bloco de Robô
-
-<Ref_AC>
-Descarte qualquer AC existente;
-Registre e tome como referência O Arquivo de Conteúdo (AC);
-Use-o em substituição a qualquer outro AC existente: Ver chamada externa do AC;
-Analise o documento AC;
+```
+<Ref_AC>  
+  Descarte qualquer AC existente;  
+  Registre e tome como referência O Arquivo de Conteúdo (AC);  
+  Use-o em substituição a qualquer outro AC existente: Ver chamada externa do AC;  
+  Analise o documento AC;  
 </Ref_AC>
+```
+
+## 3.2. Chamada de Execução
+```
+$ execute o script Ref_AC
+$ execute o script Ref_AD
+$ execute o script Script_Fichamento
+```
+
