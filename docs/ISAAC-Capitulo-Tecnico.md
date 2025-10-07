@@ -38,4 +38,29 @@ $ execute o script Ref_AC
 $ execute o script Ref_AD
 $ execute o script Script_Fichamento
 ```
+## 3.3. Comandos Internos
+```
+<Ref_AR>
+  x: Ver chamada externa;
+  RBx = Ver chamada externa;
+  Registre e tome como referência a Referência Bibliográfica RBx: Referência_Bibliográfica_01.pdf;
+  Analise o documento RBx;
+</Ref_AR>
+
+Execute o script Ref_AR para:
+x = [informe aqui o número sequencial do AR]
+RBx = [informe aqui o nome do arquivo AR]
+```
+# 4. Arquitetura de Execução
+## ISAAC opera em dois níveis:
+
+- **Parser implícito**: reconhece a estrutura dos blocos.
+- **Interpretador funcional**: executa os comandos com base na semântica.
+
+# 5. Parametrização Externa
+```
+Execute o script Ref_AR para:
+RBx = Referência_Bibliográfica_01.pdf
+```
+
 
