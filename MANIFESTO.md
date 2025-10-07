@@ -64,5 +64,5 @@ Uma era em que a IA não apenas sugere — ela compreende.
 Em que o autor não apenas escreve — ele programa.  
 Em que o texto não apenas comunica — ele executa.
 
-**ISAAC é linguagem. ISAAC é automação. ISAAC é semântica. ISAAC é futuro.**
+**ISAAC é linguagem. ISAAC é automação. ISAAC é semântica. ISAAC é futuro.**  
 [Paulo afonso/BA, 07/10/2025]
